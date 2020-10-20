@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,qCAAwC,CAExC,aACE,aAAc","file":"main.2386492d.chunk.css","sourcesContent":[".app {\n  font-family: Verdana, Tahoma, sans-serif;\n\n  &__header {\n    color: #49009c;\n  }\n}\n"]}
